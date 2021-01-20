@@ -1,0 +1,14 @@
+{
+  "name": "ts-react-styles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tarun Kumar Sukhu",
+  "license": "MIT",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/bundlers/webpack@4.0.1"
+    },
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "yarn"
+  }
+}
